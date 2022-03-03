@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cobey25
 - 👀 I’m interested in C, Python, JavaScript, HTML, CSS ...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on any interesting entry level projects
 - 📫 How to reach me limiteddealz1996@gmail.com
 
